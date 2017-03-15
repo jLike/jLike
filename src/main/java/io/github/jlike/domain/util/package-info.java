@@ -1,4 +1,4 @@
 /**
- * Utilities for JHipster domain objects.
+ * Utilities for JLike domain objects.
  */
 package io.github.jlike.domain.util;
