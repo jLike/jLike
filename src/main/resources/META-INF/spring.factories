@@ -2,5 +2,5 @@ org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
   io.github.jlike.config.apidoc.SwaggerConfiguration,\
   io.github.jlike.config.metrics.GraphiteRegistry,\
   io.github.jlike.config.metrics.PrometheusRegistry,\
-  io.github.jlike.config.JHipsterProperties,\
+  io.github.jlike.config.JLikeProperties,\
   io.github.jlike.security.uaa.UaaAutoConfiguration

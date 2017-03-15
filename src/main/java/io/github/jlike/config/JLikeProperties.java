@@ -567,7 +567,7 @@ public class JLikeProperties {
 
             private int port = 2003;
 
-            private String prefix = "jhipsterApplication";
+            private String prefix = "jlikeApplication";
 
             public boolean isEnabled() {
                 return enabled;
