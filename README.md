@@ -7,3 +7,6 @@ This project is used by the JLike generator, for more information, issues or que
 
 [travis-image]: https://travis-ci.org/jLike/jLike.svg?branch=master
 [travis-url]: https://travis-ci.org/jLike/jLike
+
+
+mvn -Dgpg.passphrase=<pass code> deploy
